@@ -30,7 +30,7 @@
       },
       "currency": {
         "type": "string",
-        "etum": ["RUR", "USD"],
+        "etum": ["RUB", "USD"],
         "pattern": "^RUB|USD$"
       }
     }
